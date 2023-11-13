@@ -24,7 +24,7 @@ This project is a demonstration of Spring Boot's actuator and security features.
 2. Open the directory in the IntelliJ IDEA.
 3. In the src directory, right click on MycoolappApplication file and select RUN 'MycoolappApplication'.
 
-In the browser visit 'hhtp://localhost:8080/' to access the endpoints. Access the actuator endpoints at 'http://localhost:8080/actuator'. You will be asked to enter username and password. 
+In the browser visit 'http://localhost:8080/' to access the endpoints. Access the actuator endpoints at 'http://localhost:8080/actuator'. You will be asked to enter username and password. 
 The default username is 'user' and the password is generated on the terminal.
 
 # Configuration
