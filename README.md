@@ -12,8 +12,6 @@ This project is a demonstration of Spring Boot's actuator and security features.
 - Spring Security
 - Java 17
 
-# Getting Started
-
 # Prerequisites
 - Java Development Kit (JDK) 17
 - Maven 3.3+
